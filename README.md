@@ -1,5 +1,6 @@
 ### TASK
 
+- [ ] defualt route distances
 - [x] create distance matrix for case 1
   - function: asymetric/symmetric confirmation
   - function: fill nan
