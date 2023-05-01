@@ -12,4 +12,4 @@
    - [ ] [LKH](https://pypi.org/project/lkh/) -> input: .atsp file | it gives route but no distance | it gives a list of [solution](https://github.com/Pratiksha100/AnalyticsProject/blob/cheewan/ResultFromLKH.md) (prom)
    - [x] [ORtools](https://developers.google.com/optimization) -> input: array
    - [ ] [Concorde](https://www.math.uwaterloo.ca/tsp/concorde.html) -> input: .tsp file
-   - [ ] C sovler?
+- [ ] Analytics
