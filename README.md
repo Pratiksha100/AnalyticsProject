@@ -25,6 +25,6 @@ Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj
 
 
 ### To Do Task for next meeting
--[ ] Revise the Google sheet solver comparision for new Alina code
--[ ] Generate the instances as provided by Rossana
--[ ] Do the experimental set up 
+- [ ] Revise the Google sheet solver comparision for new Alina code
+- [ ] Generate the instances as provided by Rossana
+- [ ] Do the experimental set up 
