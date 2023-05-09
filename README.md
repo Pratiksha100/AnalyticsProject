@@ -22,3 +22,9 @@ Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj
    - [ ] [Concorde](https://www.math.uwaterloo.ca/tsp/concorde.html) -> input: .tsp file
 - [ ] Generate Real Instances, corresponding Distance Marix (check branch 'ghozie')
 - [ ] Analytics
+
+
+### To Do Task for next meeting
+-[ ] Revise the Google sheet solver comparision for new Alina code
+-[ ] Generate the instances as provided by Rossana
+-[ ] Do the experimental set up 
