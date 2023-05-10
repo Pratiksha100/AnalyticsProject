@@ -28,3 +28,4 @@ Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj
 - [ ] Revise the Google sheet solver comparision for new Alina code
 - [ ] Generate the instances as provided by Rossana
 - [ ] Do the experimental set up 
+- [ ] Implement LKH.exe in python
