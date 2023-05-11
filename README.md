@@ -1,4 +1,7 @@
-### TASK
+#### [Google Sheet for Solvers Comparision: Click here to the link](https://docs.google.com/spreadsheets/d/1eHaEsVsWJSm-UYiAW34GOKpbrfaD1_RH/edit#gid=542634310)  
+##### ~~Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj1HVn9CU5Lwqy8yoBfNTYOyEfAkM/edit?usp=sharing~~ 
+---
+### TASK  
 
 - [ ] defualt route distances
 - [ ] create distance matrix for case 1
@@ -28,6 +31,6 @@
 - [ ] Implement LKH.exe in python
   
 ---  
-~~Google Sheet for Solvers Comparision: https://docs.google.com/spreadsheets/d/1eHaEsVsWJSm-UYiAW34GOKpbrfaD1_RH/edit#gid=542634310~~  
-~~Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj1HVn9CU5Lwqy8yoBfNTYOyEfAkM/edit?usp=sharing~~  
+  
+ 
 
