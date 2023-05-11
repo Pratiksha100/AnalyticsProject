@@ -1,7 +1,3 @@
-Google Sheet for Solvers Comparision: https://docs.google.com/spreadsheets/d/1eHaEsVsWJSm-UYiAW34GOKpbrfaD1_RH/edit#gid=542634310
-
-Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj1HVn9CU5Lwqy8yoBfNTYOyEfAkM/edit?usp=sharing
-
 ### TASK
 
 - [ ] defualt route distances
@@ -30,3 +26,8 @@ Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj
 - [ ] Generate the instances as provided by Rossana
 - [ ] Do the experimental set up 
 - [ ] Implement LKH.exe in python
+  
+---  
+~~Google Sheet for Solvers Comparision: https://docs.google.com/spreadsheets/d/1eHaEsVsWJSm-UYiAW34GOKpbrfaD1_RH/edit#gid=542634310~~  
+~~Google OR-Tool Information: https://docs.google.com/document/d/1LVDRISzdRzhyCxSj1HVn9CU5Lwqy8yoBfNTYOyEfAkM/edit?usp=sharing~~  
+
