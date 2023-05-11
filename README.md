@@ -26,7 +26,7 @@
 
 ### To Do Task for next meeting
 - [ ] Revise the Google sheet solver comparision for new Alina code
-- [ ] Generate the instances as provided by Rossana
+- [x] Generate the instances as provided by Rossana
 - [ ] Do the experimental set up 
 - [ ] Implement LKH.exe in python
   
