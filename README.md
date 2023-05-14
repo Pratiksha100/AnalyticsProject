@@ -3,7 +3,7 @@
 ---
 ### TASK  
 
-- [ ] defualt route distances
+- [x] defualt route distances
 - [ ] create distance matrix for case 1
   - function: asymetric/symmetric confirmation
   - function: fill nan
