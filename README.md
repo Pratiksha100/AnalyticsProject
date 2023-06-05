@@ -4,11 +4,11 @@
 ### TASK  
 
 - [x] defualt route distances
-- [ ] create distance matrix for case 1
+- [x] create distance matrix for case 1
   - function: asymetric/symmetric confirmation
   - function: fill nan
   - iteration for region
-- [ ] create distance matrix for case 2/3
+- [x] create distance matrix for case 2/3
 - [x] convert ATSP to sym TSP
    - [x] read ATSP file
    - [x] make asym to sym
@@ -20,7 +20,7 @@
       - [x] Theory behind this tool  
    - [x] [Concorde](https://www.math.uwaterloo.ca/tsp/concorde.html) -> input: .tsp file  
    - [x] PyConcorde
-- [ ] Generate Real Instances, corresponding Distance Marix (check branch 'ghozie')  
+- [x] Generate Real Instances, corresponding Distance Marix (check branch 'ghozie')  
 - [ ] Analytics
 
 
@@ -30,7 +30,6 @@
 - [x] Do the experimental set up 
 - [x] Implement LKH.exe in python
 - [x] HPC access
-- [ ] Analytics
   
 ---  
   
