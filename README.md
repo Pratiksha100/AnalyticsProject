@@ -30,7 +30,9 @@
 - [x] Do the experimental set up 
 - [x] Implement LKH.exe in python
 - [x] HPC access
-  
+
+### To Do Task after final presentation
+- [ ] Party hard if we pass the course :D
 ---  
   
  
